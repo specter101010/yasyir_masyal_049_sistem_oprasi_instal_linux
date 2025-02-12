@@ -1,0 +1,2 @@
+# yasyir_masyal_049_sistem_oprasi_instal_linux
+laporan praktik penginstallan linux ubuntu
