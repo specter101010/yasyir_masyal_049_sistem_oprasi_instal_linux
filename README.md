@@ -44,6 +44,7 @@
 <h2>Langkah Instalasi</h2>
 
 <ol>
+  <img src="" width="300px>
   <li>Buka VirtualBox dan klik "New" untuk membuat mesin virtual baru.</li>
 </ol>
 
