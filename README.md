@@ -44,8 +44,22 @@
 <h2>Langkah Instalasi</h2>
 
 <ol>
-  <img src="" width="300px>
+  <img src="open linux.png" width="300px>
   <li>Buka VirtualBox dan klik "New" untuk membuat mesin virtual baru.</li>
+  <img src="selecting iso.png" width="300px>
+  <li>Tampilan UI untuk configurasi penginstallan linux di Virtual box</li>
+  <img src="install configurasi.png" width="300px>
+  <li>Isi nama mesin virtual (misal: "Ubuntu-VM"), pilih tipe "Linux", dan versi "Ubuntu (64-bit)", lalu configurasi seperti di gambar</li>
+  <img src="first booting.png" width="300px>
+  <li>Tampilan First booting pada linux ubuntu</li>
+  <img src="botting install.png" width="300px>
+  <li>Tunggu sampai Proses Installasi selesai</li>
+  <img src="selecting user.png" width="300px>
+  <li>Pilih User yang sudah di buat sebelumnya</li>
+  <img src="input password.png" width="300px>
+  <li>Masukan Password sesuai yang sudah di configurasi di awal</li>
+  <img src="screen.png" width="300px>
+  <li>Tampilan Screen awal Linux Ubuntu</li>
 </ol>
 
 
